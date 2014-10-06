@@ -1,4 +1,4 @@
 rCoursera
 =========
 
-peer evaluation assignment in Peng's R programming class
+first coursera course on R and stats
